@@ -1,0 +1,18 @@
+1. Ya pernah
+2. ketika nilai meta data diubah saat file dibuka akan menampilan
+   yang kita buat lalu setelahnya akan dihubungkan ke alamat 
+   www.google.com
+meta dokumen digunakaan untuk menginisialisasikan proses refresh
+3.fungsi tag html pada tabel:
+	- thead (tabel head)
+	bagian dari kepala tabel untuk mengisi judul pada kolom/baris tabel
+	-tbody (tabel body)
+	bagian dari isi tabel untuk mengisi data-data tabel
+	-tr (tabel row)
+	tabel yang menunjukan baris tabel
+	-th (tabel head)
+	tabel yang berisi judul pada baris/kolom.
+	contohnya pada percobaan yaitu NIM MAHASISWA
+	-td (tabel data)
+	tabel yang menunjukan data-data pada tabel, digunakan
+	untuk isian data-data pada tabel
